@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "password": "typicode"
+    },
+    {
+      "username": "Nilgathor",
+      "password": "elviralord",
+      "id": 2
+    },
+    {
+      "username": "chinex",
+      "password": "aneneson",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product name": "some comment",
+      "product price": 1,
+      "product description": "some descriptions",
+      "product quantity": 4
+    }
+  ]
+}
